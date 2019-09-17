@@ -4,6 +4,7 @@
 # Change line 16 according to the curl parms needed.
 # ex. usage: ./CurlBashCracker.sh /usr/share/wordlists/rockyou.txt http://10.10.10.10
 
+#TODO: Multithreading and cleaning this up making it even better..fork on fork on
 
 
 
@@ -31,7 +32,7 @@ else
         done
         fi
 
-# Don't never forget Hacktheplanet! 
+# Don't never forget Hacktheplanet!
 # Script by Robert Ross(Root) && C-3P0
 
 
